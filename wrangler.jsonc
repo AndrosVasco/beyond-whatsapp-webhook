@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "beyond-whatsapp-webhook",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-25",
+  "observability": {
+    "enabled": true
+  }
+}
