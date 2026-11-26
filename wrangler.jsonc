@@ -5,5 +5,8 @@
   "compatibility_date": "2026-11-25",
   "observability": {
     "enabled": true
-  }
+  },
+  "vars": {
+    "META_PHONE_NUMBER_ID": "1310593968803549"
+  },
 }
